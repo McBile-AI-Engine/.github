@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 35 35" fill="none" role="img" aria-label="MCBILE">
+  <!-- Units: 1 user unit = 1px at 1:1. viewBox 35×35; M centered, NW at (2.5,5). No background. -->
+  <!-- Geometry matches m-matrix outer stems: side/center 7.5 wide; gaps 3.75; right at x=25. -->
+  <!-- Left: mcbile-500. Center: orange-100 (dark theme). Right: pulse-500. -->
+  <rect x="2.5" y="5" width="7.5" height="25" fill="#f43f5d"/>
+  <rect x="13.75" y="5.49" width="7.5" height="14.51" fill="#ffedd4"/>
+  <rect x="25" y="5" width="7.5" height="25" fill="#f4396e"/>
+</svg>
