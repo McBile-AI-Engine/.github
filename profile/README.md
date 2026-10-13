@@ -136,7 +136,7 @@ Our focus is on solving real business and operational problems through clean arc
 | **[Swotsy](https://mcbile.app/swotsy)** | Strategic analysis and planning tool for evaluating strengths, weaknesses, opportunities, and risks | Python, FastAPI, Pandas, AI tooling |
 | **[Filesy](https://filesy.top)** | Local semantic file search for macOS with AI indexing, retrieval, and knowledge access | Svelte, Tauri, Python, Ollama, Qdrant |
 | **[Visionary](https://www.mcbile.app/playbook-aic)** | AI knowledge library and orchestration layer for prompts, workflows, and structured decision support | Python, Shell, AI tooling |
-| **[Cheese Runner](https://applesyn.com)** | 3D browser game experience with interactive gameplay, world logic, and arcade mechanics | React, TypeScript, Vite, Three.js |
+| **[Cheese Runner](https://cheese.promo)** | 3D browser game experience with interactive gameplay, world logic, and arcade mechanics | React, TypeScript, Vite, Three.js |
 
 </div>
 
