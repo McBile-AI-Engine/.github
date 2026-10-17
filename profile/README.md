@@ -64,7 +64,7 @@ Our focus is on solving real business and operational problems through clean arc
 
 ### Languages & Runtimes
 
-![Python](https://img.shields.io/badge/Python-3.13-012345?logo=python&logoColor=white&style=for-the-badge&labelColor=2F2F2F)
+![Python](https://img.shields.io/badge/Python-3.x-012345?logo=python&logoColor=white&style=for-the-badge&labelColor=2F2F2F)
 ![TypeScript](https://img.shields.io/badge/TypeScript-7.x-012345?logo=typescript&logoColor=white&style=for-the-badge&labelColor=2F2F2F)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES2024-012345?logo=javascript&logoColor=white&style=for-the-badge&labelColor=2F2F2F)
 ![Go](https://img.shields.io/badge/Go-1.21_+-012345?logo=go&logoColor=white&style=for-the-badge&labelColor=2F2F2F)
@@ -135,7 +135,7 @@ Our focus is on solving real business and operational problems through clean arc
 | **[Producsy](https://producsy.com)** | Performance monitoring & competitive intelligence platform for iGaming operators | TypeScript, Go, PostgreSQL, Docker |
 | **[Swotsy](https://mcbile.app/swotsy)** | Strategic analysis and planning tool for evaluating strengths, weaknesses, opportunities, and risks for iGaming operators | Python, FastAPI, Pandas, AI tooling |
 | **[Filesy](https://filesy.top)** | Local semantic file search for macOS with AI indexing, retrieval, and knowledge access | Svelte, Tauri, Python, Ollama, Qdrant |
-| **[Visionary](https://www.mcbile.app/playbook-aic)** | AI knowledge library and orchestration layer for prompts, workflows, and structured decision support | Python, Shell, AI tooling |
+| **[Visionary](https://mcbile.app/playbook-aic)** | AI knowledge library and orchestration layer for prompts, workflows, and structured decision support | Python, Shell, AI tooling |
 | **[Cheese Runner](https://cheese.promo)** | 3D browser game experience with interactive gameplay, world logic, and arcade mechanics | React, TypeScript, Vite, Three.js |
 
 </div>
